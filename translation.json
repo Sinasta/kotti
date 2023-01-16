@@ -1,0 +1,256 @@
+{
+	"translation": {
+		"neutral": {
+			"sharpness": ["blurry", "sharp"],
+			"shade": ["light", "medium", "dark"],
+			"element amount": ["single", "few", "medium", "many", "full"],
+			"element concentration": ["far", "medium", "close"],
+			"horizontal origin": ["far", "medium", "close"],
+			"vertical origin": ["up", "medium", "low"],
+			"lighting type": ["sun", "point"],
+			"point position": ["close", "medium", "far"],
+			"point strength": ["strong", "medium", "weak"],
+			"point amount": ["many", "medium", "few"],
+			"sun direction": ["below", "above", "frontal", "lateral"],
+			"sun strength": ["strong", "medium", "weak"],
+			"sun amount": ["single", "multiple"]
+			},
+		"scared": {
+			"sharpness": "blurry",
+			"shade": "dark",
+			"horizontal origin": "far",
+			"lighting type": "point",
+			"point amount": "few"
+			},
+		"terrified": {
+			"sharpness": "blurry",
+			"shade": "dark",
+			"horizontal origin": "close",
+			"lighting type": "point",
+			"point position": "close",
+			"point amount": "many"
+			},
+		"insecure": {
+			"sharpness": "sharp",
+			"shade": "dark",
+			"horizontal origin": "medium",
+			"vertical origin": "up",
+			"lighting type": "sun",
+			"sun direction": "below",
+			"sun strength": "strong"
+			},
+		"nervous": {
+			"sharpness": "sharp",
+			"shade": "dark",
+			"horizontal origin": "close",
+			"lighting type": "sun",
+			"sun direction": "below",
+			"sun strength": "strong"
+			},
+		"horrified": {
+			"sharpness": "blurry",
+			"shade": "dark",
+			"horizontal origin": "medium",
+			"lighting type": "sun",
+			"sun direction": "below",
+			"sun strength": "weak"
+			},
+		"enraged": {
+			"sharpness": "sharp",
+			"shade": "medium",
+			"element amount": "many",
+			"element concentration": "close",
+			"horizontal origin": "medium",
+			"lighting type": "sun",
+			"sun direction": "frontal",
+			"sun strength": "strong"
+			},
+		"exasperated": {
+			"sharpness": "sharp",
+			"shade": "medium",
+			"element amount": "many",
+			"horizontal origin": "medium",
+			"lighting type": "point",
+			"point amount": "many"
+			},
+		"irritable": {
+			"shade": "medium",
+			"horizontal origin": "medium",
+			"lighting type": "sun",
+			"sun direction": "lateral",
+			"sun amount": "single"
+			},
+		"jealous": {
+			"shade": "medium",
+			"horizontal origin": "far",
+			"lighting type": "sun",
+			"sun direction": "above",
+			"sun strength": "strong"
+			},
+		"disgusted": {
+			"shade": "medium",
+			"horizontal origin": "close",
+			"lighting type": "sun",
+			"sun direction": "above",
+			"sun strength": "strong"
+			},
+		"hurt": {
+			"shade": "light",
+			"element amount": "many",
+			"lighting type": "point",
+			"point amount": "many"
+			},
+		"unhappy": {
+			"shade": "light",
+			"element amount": "many",
+			"element concentration": "close",
+			"vertical origin": "low",
+			"lighting type": "sun",
+			"sun strength": "weak"
+			},
+		"disappointed": {
+			"shade": "light",
+			"element amount": "single",
+			"horizontal origin": "medium",
+			"lighting type": "sun",
+			"sun direction": "above",
+			"sun amount": "multiple"
+			},
+		"shameful": {
+			"shade": "light",
+			"element amount": "many",
+			"vertical origin": "low",
+			"lighting type": "point",
+			"point position": "medium",
+			"point strength": "strong"
+			},
+		"lonely": {
+			"shade": "light",
+			"element amount": "few",
+			"lighting type": "point",
+			"point position": "close",
+			"point strength": "strong",
+			"point amount": "few"
+			},
+		"gloomy": {
+			"shade": "light",
+			"element amount": "many",
+			"horizontal origin": "medium",
+			"lighting type": "point",
+			"point strength": "weak",
+			"point amount": "many"
+			},
+		"confused": {
+			"sharpness": "blurry",
+			"shade": "light",
+			"element concentration": "close",
+			"horizontal origin": "close",
+			"lighting type": "sun",
+			"sun direction": "above"
+			},
+		"amazed": {
+			"shade": "light",
+			"element amount": "many",
+			"element concentration": "close",
+			"horizontal origin": "medium",
+			"vertical origin": "medium",
+			"lighting type": "point",
+			"point amount": "many"
+			},
+		"moved": {
+			"shade": "light",
+			"element amount": "few",
+			"horizontal origin": "medium",
+			"lighting type": "sun",
+			"sun direction": "lateral"
+			},
+		"excited": {
+			"shade": "light",
+			"element amount": "few",
+			"lighting type": "point",
+			"point position": "close",
+			"point amount": "many"
+			},
+		"peaceful": {
+			"shade": "medium",
+			"vertical origin": "low",
+			"lighting type": "sun",
+			"sun direction": "above",
+			"sun amount": "multiple"
+			},
+		"content": {
+			"shade": "medium",
+			"element amount": "few",
+			"horizontal origin": "close",
+			"lighting type": "sun",
+			"sun amount": "multiple"
+			},
+		"happy": {
+			"shade": "medium",
+			"lighting type": "sun",
+			"sun direction": "above",
+			"sun amount": "multiple"
+			},
+		"cheerful": {
+			"shade": "medium",
+			"element amount": "medium",
+			"element concentration": "far",
+			"lighting type": "point",
+			"point amount": "many",
+			"sun direction": "above",
+			"sun amount": "multiple"
+			},
+		"proud": {
+			"shade": "medium",
+			"element amount": "medium",
+			"horizontal origin": "medium",
+			"vertical origin": "medium",
+			"lighting type": "sun",
+			"sun direction": "below",
+			"sun strength": "strong"
+			},
+		"optimistic": {
+			"shade": "medium",
+			"element amount": "few",
+			"horizontal origin": "far",
+			"vertical origin": "medium",
+			"lighting type": "sun"
+			},
+		"euphoric": {
+			"shade": "medium",
+			"element amount": "few",
+			"horizontal origin": "far",
+			"vertical origin": "medium",
+			"lighting type": "point",
+			"point amount": "many"
+			},
+		"romantic": {
+			"shade": "dark",
+			"element amount": "medium",
+			"horizontal origin": "medium",
+			"element concentration": "far",
+			"lighting type": "point",
+			"point amount": "many"
+			},
+		"affectionate": {
+			"shade": "dark",
+			"element concentration": "far",
+			"lighting type": "point",
+			"point amount": "many"
+			},
+		"sentimental": {
+			"shade": "dark",
+			"element amount": "many",
+			"horizontal origin": "far",
+			"lighting type": "sun",
+			"sun direction": "frontal"
+			},
+		"grateful": {
+			"shade": "dark",
+			"element amount": "many",
+			"element concentration": "far",
+			"lighting type": "sun",
+			"sun direction": "above"
+			}
+		}
+}

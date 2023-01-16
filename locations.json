@@ -1,0 +1,150 @@
+{
+	"location 1": [
+		"arc",
+		"subway_bridge",
+		"skeleton_house",
+		"subway_entrance",
+		"fruits"
+	],
+	"location 2": [
+		"fruits",
+		"skeleton_house",
+		"dish",
+		"neon_sign",
+		"corner_house"
+	],
+	"location 3": [
+		"fence",
+		"neon_sign",
+		"skeleton_house",
+		"dish",
+		"horn_house"
+	],
+	"location 4": [
+		"horn_house",
+		"corner_house",
+		"subway_bridge",
+		"window",
+		"subway_entrance"
+	],
+	"location 5": [
+		"fruits",
+		"skeleton_house",
+		"dish",
+		"subway_bridge",
+		"fence"
+	],
+	"location 6": [
+		"subway_entrance",
+		"arc",
+		"dish",
+		"fence",
+		"horn_house"
+	],
+	"location 7": [
+		"skeleton_house",
+		"fence",
+		"neon_sign",
+		"dish",
+		"horn_house"
+	],
+	"location 8": [
+		"window",
+		"arc",
+		"subway_bridge",
+		"subway_entrance",
+		"corner_house"
+	],
+	"location 9": [
+		"horn_house",
+		"skeleton_house",
+		"corner_house",
+		"dish",
+		"subway_bridge"
+	],
+	"location 10": [
+		"fence",
+		"horn_house",
+		"corner_house",
+		"subway_entrance",
+		"fruits"
+	],
+	"location 11": [
+		"horn_house",
+		"fence",
+		"subway_bridge",
+		"neon_sign",
+		"corner_house"
+	],
+	"location 12": [
+		"corner_house",
+		"fence",
+		"subway_entrance",
+		"subway_bridge",
+		"fruits"
+	],
+	"location 13": [
+		"subway_wall",
+		"window",
+		"arc",
+		"subway_bridge",
+		"fence"
+	],
+	"location 14": [
+		"neon_sign",
+		"skeleton_house",
+		"dish",
+		"fence",
+		"fruits"
+	],
+	"location 15": [
+		"skeleton_house",
+		"horn_house",
+		"corner_house",
+		"dish",
+		"window"
+	],
+	"location 16": [
+		"skeleton_house",
+		"subway_bridge",
+		"fruits",
+		"horn_house",
+		"fence"
+	],
+	"location 17": [
+		"subway_entrance",
+		"subway_wall",
+		"fence",
+		"fruits",
+		"subway_bridge"
+	],
+	"location 18": [
+		"horn_house",
+		"window",
+		"skeleton_house",
+		"arc",
+		"fence"
+	],
+	"location 19": [
+		"subway_bridge",
+		"window",
+		"corner_house",
+		"subway_entrance",
+		"dish"
+	],
+
+	"location 20": [
+		"neon_sign",
+		"skeleton_house",
+		"subway_bridge",
+		"subway_entrance",
+		"arc"
+	],
+	"location 21": [
+		"arc",
+		"neon_sign",
+		"fruits",
+		"horn_house",
+		"dish"
+	]
+}

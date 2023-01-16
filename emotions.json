@@ -1,0 +1,304 @@
+{
+	"emotions": {
+		"neutral": {
+			"neutral":{
+				"neutral": [
+					"u1 & u8",
+					"subway",
+					"subway",
+					"subway",
+					"öpnv",
+					"connected",
+					"supermarket",
+					"streetlamp",
+					"street",
+					"stairs",
+					"junction",
+					"circle",
+					"circle",
+					"round",
+					"round",
+					"hostel",
+					"möbel olfe",
+					"nkz",
+					"kunstraum kreuzberg",
+					"4th world",
+					"kemal library",
+					"new police station",
+					"südblock",
+					"sparkasse",
+					"kaisers",
+					"kaisers",
+					"casino",
+					"hasir"
+					]
+				}
+			},
+		"negative": {
+			"fear": {
+				"scared": [
+					"men's groups",
+					"dealer",
+					"dealer",
+					"pickpockets",
+					"money laundering",
+					"fear"
+					],
+				"terrified": [
+					"criminality",
+					"crime"
+					],
+				"insecure": [
+					"unsettling",
+					"drugs",
+					"drugs",
+					"drugs",
+					"drugs",
+					"drugs",
+					"drugs"
+					],
+				"nervous": [
+					"crowded",
+					"crowd",
+					"full",
+					"full"
+					],
+				"horrified": [
+					"heroin",
+					"syringes",
+					"syringe"
+					]
+				},
+			"anger": {
+				"enraged": [
+					"fucked up",
+					"cops"
+					],
+				"exasperated": [
+					"police control",
+					"run down",
+					"junkies"
+					],
+				"irritable": [
+					"stress",
+					"pigeons",
+					"pigeons",
+					"cars",
+					"traffic",
+					"traffic",
+					"neighbor dispute",
+					"police",
+					"police"
+					],
+				"jealous": [
+					"tourists",
+					"tourists",
+					"tourists",
+					"gentrification",
+					"gentrification",
+					"hipster-cafes",
+					"newcomers"
+					],
+				"disgusted": [
+					"dirty",
+					"dirty",
+					"dirty",
+					"dirty",
+					"dirty",
+					"dirty",
+					"dirty",
+					"dirty",
+					"dirty",
+					"icky",
+					"dirt",
+					"disgusting",
+					"disgusting",
+					"disgusting",
+					"pigeon shit",
+					"pigeon poo",
+					"garbage"
+					]
+				},
+			"sadness": {
+				"hurt": [
+					"discomfort",
+					"sometimes annoying"
+					],
+				"unhappy": [
+					"piss",
+					"bottles",
+					"nauseating",
+					"urin",
+					"stinky"
+					],
+				"disappointed": [
+					"problems",
+					"plastic bag",
+					"unpleasant"
+					],
+				"shameful": [
+					"neglected",
+					"hopeless"
+					],
+				"lonely": [
+					"exclusion",
+					"homeless",
+					"homeless",
+					"homeless people",
+					"homelessness",
+					"anonymity",
+					"loneliness",
+					"tents",
+					"dark",
+					"cold"
+					],
+				"gloomy": [
+					"poverty",
+					"poverty",
+					"vagrant",
+					"poor",
+					"massive housing",
+					"housing blocks",
+					"plattenbau"
+					]
+				}
+			},
+		"positive": {
+			"surprise": {
+				"confused": [
+					"chaotic",
+					"chaotic",
+					"weird",
+					"cluttered"
+					],
+				"amazed": [
+					"nightlife",
+					"nightlife",
+					"vibrant",
+					"lively",
+					"lots",
+					"shopping"
+					],
+				"moved": [
+					"hustle",
+					"hustle",
+					"hustle",
+					"noise",
+					"loud",
+					"loud",
+					"loud",
+					"noisy",
+					"tagged",
+					"contrast",
+					"contrast",
+					"contradictions",
+					"throng"
+					],
+				"excited": [
+					"interesting",
+					"party",
+					"party",
+					"multilayer",
+					"foreigners",
+					"foreigners",
+					"stand out",
+					"consumption"
+					]
+				},
+			"joy": {
+				"peaceful": [
+					"home",
+					"relaxed",
+					"familiar"
+					],
+				"content": [
+					"longing",
+					"eating",
+					"food",
+					"restaurants"
+					],
+				"happy": [
+					"bright",
+					"open",
+					"evening",
+					"cafes",
+					"fruit"
+					],
+				"cheerful": [
+					"cool",
+					"scene",
+					"scene",
+					"fashion",
+					"bars",
+					"bars",
+					"fotokotti",
+					"fastfood"
+					],
+				"proud": [
+					"original",
+					"kreuzberg",
+					"real",
+					"reality",
+					"berlin",
+					"berlin"
+					],
+				"optimistic": [
+					"affluence",
+					"honest",
+					"functional"
+					],
+				"euphoric": [
+					"powerful",
+					"colorful",
+					"colorful",
+					"colorful",
+					"colorful"
+					]
+				},
+			"love": {
+				"romantic": [
+					"beautiful",
+					"beautiful",
+					"charm",
+					"charm",
+					"neon sign",
+					"graffiti",
+					"graffiti"
+					],
+				"affectionate": [
+					"belonging",
+					"communal",
+					"subway announcements",
+					"spätis",
+					"kebab stalls",
+					"facade",
+					"falafel",
+					"ayran",
+					"döner",
+					"köfte",
+					"hotspot",
+					"hotspot",
+					"linie 1",
+					"rewe",
+					"döner special"
+					],
+				"sentimental": [
+					"family",
+					"neighborhood feeling",
+					"gate to kreuzberg",
+					"neighborhood",
+					"bürgermeister"
+					],
+				"grateful": [
+					"diverse",
+					"diverse",
+					"diversity",
+					"multi-kulti",
+					"multiculturalism",
+					"multicultural",
+					"cultural"
+					]
+				}
+			}
+	}
+}
